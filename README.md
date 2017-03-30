@@ -5,4 +5,4 @@ This theme is an adaptation of the original Zenhabits theme, which the site owne
 
 This version of the Zenhabits WordPress Theme eliminates most of these installation steps, or integrates them into WordPress. (for example, instead of hand-editing the menu links, you can now create the menus directly within the WordPress Custom Menus section)
 
-Note: This is an old WordPress theme. I neither promise nor provide any support.
+<strong>Note:</strong> This is an old WordPress theme. I neither promise nor provide any support.
